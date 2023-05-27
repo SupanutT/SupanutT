@@ -37,10 +37,10 @@ Linkedin: <a href="https://linkedin.com/in/supanut-tangsinmankong-b2054a235/" ta
           
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40">](https://github.com/SupanutT) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40">](https://gitlab.com/SupanutT)                                     
-          
+<!--          
 ## 📌 Pinned Repository
 [<img src="https://i.ibb.co/KFdM7qM/Screenshot-6.png" width=400 height=95>](https://github.com/SupanutT/Programming-Methodology-Project)
-
+-->
 ## 📈 GitHub Stats
 [![Supanut's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupanutT&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ![Supanut's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupanutT&show_icons=true&theme=dracula)
