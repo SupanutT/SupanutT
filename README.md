@@ -13,34 +13,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Supanut Tangsinmankong
-## ✈ Get to know me more!
-Hi there 👋🏻 I am Supanut and I am currently studying computer engineering at Chulalongkorn University. I am interested in learning about new technologies and enjoy working on software projects in my free time. I am always looking for new opportunities to apply my skills and knowledge and am excited to see where my studies in computer engineering will take me in the future.
+## Welcome aboard! ✈️
+Hi there 👋🏻 I used to navigate the skies as a pilot, but now I'm pursuing my passion for coding as a computer engineering student. This GitHub profile is my launchpad for learning, building, and exploring the world of software development. Buckle up, check out my projects, and feel free to connect if you share the love for code or want to chat!
 
 ### 📞 Contact me 
-Linkedin: <a href="https://linkedin.com/in/supanut-tangsinmankong-b2054a235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supanut-tangsinmankong-b2054a235/" height="30" width="40" /></a>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/supanut-tangsinmankong-b2054a235/)
+[![Linkedin](https://skillicons.dev/icons?i=gmail)](mailto:supanut.tangsin@gmail.com/)
+
 
 ## 👨🏻‍💻 Programming Language
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40">
-<br>      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
-                            
+
+### Web Development Language 
+[![WebDevLang](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+
+### Multipurpose Language
+[![MPLang](https://skillicons.dev/icons?i=py,java,cpp)](https://skillicons.dev)
+                     
 
 ## 🛠 Tools and Framework
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40">
-          
+### Database - DBMS, Search Engine, and ORM
+[![DB](https://skillicons.dev/icons?i=postgresql,sqlite,mongodb,firebase,dynamodb,elasticsearch,prisma)](https://skillicons.dev)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40">](https://github.com/SupanutT) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40">](https://gitlab.com/SupanutT)                                     
-<!--          
-## 📌 Pinned Repository
-[<img src="https://i.ibb.co/KFdM7qM/Screenshot-6.png" width=400 height=95>](https://github.com/SupanutT/Programming-Methodology-Project)
--->
+### Web Development Framework
+[![WebDevFW](https://skillicons.dev/icons?i=nextjs,react,bootstrap,express,nodejs,postman)](https://skillicons.dev)
+
+### DevOps and Deployment Service
+[![DevOpsFW](https://skillicons.dev/icons?i=docker,githubactions,ansible,gcp,aws)](https://skillicons.dev)
+
+### Other Tools and Framework
+[![OtherFW](https://skillicons.dev/icons?i=github,gitlab,vscode,pytorch)](https://skillicons.dev)                                        
+      
 ## 📈 GitHub Stats
-[![Supanut's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupanutT&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Supanut's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupanutT&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Supanut's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupanutT&show_icons=true&theme=dracula)
+<!-- <p align="center">
+    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SupanutT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p> -->
