@@ -33,16 +33,16 @@ Hi there 👋🏻 I used to navigate the skies as a pilot, but now I'm pursuing 
 ## 🛠 Tools and Framework
 
 ### Database - DBMS, Search Engine, and ORM
-[![DB](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,dynamodb,elasticsearch,prisma,sequelize)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=postgresql,mongodb,elasticsearch,prisma,sequelize)](https://skillicons.dev)
 
 ### Web Development Framework
-[![WebDevFW](https://skillicons.dev/icons?i=nextjs,react,bootstrap,express,nodejs,postman)](https://skillicons.dev)
+[![WebDevFW](https://skillicons.dev/icons?i=nextjs,express,nodejs,dotnet,django)](https://skillicons.dev)
 
 ### DevOps and Deployment Service
-[![DevOpsFW](https://skillicons.dev/icons?i=docker,githubactions,ansible,gcp,aws)](https://skillicons.dev)
+[![DevOpsFW](https://skillicons.dev/icons?i=docker,githubactions,terraform,kubernetes,gcp,aws)](https://skillicons.dev)
 
 ### Other Tools and Framework
-[![OtherFW](https://skillicons.dev/icons?i=github,gitlab,vscode,pytorch)](https://skillicons.dev)                                        
+[![OtherFW](https://skillicons.dev/icons?i=github,gitlab,vscode,grafana)](https://skillicons.dev)                                        
       
 ## 📈 GitHub Stats
 <!-- [![Supanut's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupanutT&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
