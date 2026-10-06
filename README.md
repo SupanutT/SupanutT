@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Supanut Tangsinmankong
-## Welcome aboard! ✈️
-Hi there 👋🏻 I used to navigate the skies as a pilot, but now I'm pursuing my passion for coding as a computer engineering student. This GitHub profile is my launchpad for learning, building, and exploring the world of software development. Buckle up, check out my projects, and feel free to connect if you share the love for code or want to chat!
 
 ### 📞 Contact me 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/supanut-tangsinmankong-b2054a235/)
